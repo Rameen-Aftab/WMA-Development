@@ -1,0 +1,136 @@
+div{
+    background-color:rgba(207, 207, 207, 0.585);
+    height:370px;
+    width:100%;
+}
+img{
+    height:370px;
+    width:45%;
+    float:right;
+}
+h1{
+    margin-left: 100px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    margin-left: 100px;
+    padding-right: 52%; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+}
+.container {
+    display:flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px; 
+    margin-left: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#one {
+    font-size: 30px;
+    color: rgb(183, 101, 0);
+}
+h6{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    margin-left: 160px;
+    margin-top: -38px;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 160px;
+   margin-top: -18px;
+}
+.container1 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px; 
+    margin-left: 100px;
+    background-color: rgb(255, 255, 255);
+}
+i {
+    font-size: 25px;
+    color: rgb(183, 101, 0);
+}
+
+.container2{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px; 
+    margin-left: 100px;
+    background-color: rgb(255, 255, 255);
+}
+i {
+    font-size: 25px;
+    color: rgb(183, 101, 0)
+}
+.container3{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px; 
+    background-color: rgb(255, 255, 255);
+    margin-top:-125px;
+    margin-left:  350px;
+   
+}
+i {
+    font-size: 25px;
+    color: rgb(183, 101, 0);
+    
+}
+#two{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px; 
+    background-color: rgb(255, 255, 255);  
+}
+
+.user{
+      margin-left:410px;
+
+}
+
+.container4{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px; 
+    background-color: rgb(255, 255, 255);
+    margin-top:20px;
+    margin-left:  350px;
+   
+}
+i {
+    font-size: 25px;
+    color: rgb(183, 101, 0);
+    
+}
+#three{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 40px; 
+    height: 40px;
+    background-color: rgb(255, 255, 255);  
+}
+
+.user{
+      margin-left:410px;
+
+}
+
+
+
+
+
